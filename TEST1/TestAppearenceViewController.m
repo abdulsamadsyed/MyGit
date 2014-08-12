@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"View Did load");
     NSLog(@"Test Nslog");
+    NSLog(@"Another test log");
 }
 
 - (void)didReceiveMemoryWarning
