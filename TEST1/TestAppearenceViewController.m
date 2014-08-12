@@ -23,6 +23,7 @@
     NSLog(@"Master Nslog");
     NSLog(@"Test Nslog");
     NSLog(@"Another test log");
+        NSLog(@"Another test log");
 
 }
 
